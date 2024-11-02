@@ -5,7 +5,7 @@ public class Simulacao extends Onda{
 
     private double tempo;
     private double erro_max;
-    private double delta_x = 0.1;
+    private double delta_x = 0.01;
     private double x_max = 1.0;
     private double delta_t = 1;
 
